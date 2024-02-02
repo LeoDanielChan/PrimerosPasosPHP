@@ -1,0 +1,29 @@
+.vista {
+    height: auto;
+    width: auto;
+    padding: 50px;
+    margin: 40px 60px 20px 60px;
+    background: #34495e;
+    border-radius: 10px;
+}
+
+.vista h2 {
+    text-decoration: solid;
+    font-size: 40px;
+    color: white;
+}
+
+.vista li {
+    font-size: 20px;
+    margin-bottom: 4px;
+    color: #dd5;
+}
+
+.vista p {
+    font-size: 20px;
+    color: #dd5;
+}
+
+.vista b{
+    color: white;
+}
